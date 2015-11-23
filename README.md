@@ -117,7 +117,7 @@ The second link is a MOOC that will teach you learning techniques used by expert
 ### Introduction to Computer Science
 
 Courses | Duration | Effort | Verified Certificate
-:-- | :--: | :--:
+:-- | :--: | :--: | :--:
 [Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x#!)| 12 weeks | 10-20 hours/week | $90
 [Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-5#!)| 9 weeks | 15 hours/week | $49
 [Introduction to Computational Thinking and Data Science](https://www.edx.org/course/introduction-computational-thinking-data-mitx-6-00-2x-2#!)| 10 weeks | 15 hours/week | --
@@ -125,9 +125,9 @@ Courses | Duration | Effort | Verified Certificate
 
 ### Math (Mathematical Thinking)
 
-Courses | Duration | Effort
-:-- | :--: | :--:
-[Effective Thinking Through Mathematics](https://www.edx.org/course/effective-thinking-through-mathematics-utaustinx-ut-9-01x) | 9 weeks | 5 hours/week
+Courses | Duration | Effort | Verified Certificate
+:-- | :--: | :--: | :--:
+[Effective Thinking Through Mathematics](https://www.edx.org/course/effective-thinking-through-mathematics-utaustinx-ut-9-01x) | 9 weeks | 5 hours/week | FREE
 
 ### Program Design
 
@@ -139,9 +139,9 @@ Courses | Duration | Effort
 
 ### Math (Discrete Math)
 
-Courses | Duration | Effort
-:-- | :--: | :--:
-[Mathematics for Computer Science](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/index.htm)| 12 weeks | 5 hours/week
+Courses | Duration | Effort | Verified Certificate
+:-- | :--: | :--: | :--:
+[Mathematics for Computer Science](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/index.htm)| 12 weeks | 5 hours/week | --
 
 ### Algorithms
 
