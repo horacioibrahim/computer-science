@@ -345,8 +345,8 @@ Courses | Duration | Effort
 [The Internet of Things](https://www.futurelearn.com/courses/internet-of-things)| 4 weeks | 2 hours/week
 Total (estimated) | ~1 month | - | --
 
-### TOTAL
-* 8 Years and 4 Months *
+### Total estimated time
+**8 Years and 4 Months**
 
 ### Specializations
 
