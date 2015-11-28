@@ -122,7 +122,7 @@ Courses | Duration | Effort | Verified Certificate
 [Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-5#!)| 9 weeks | 15 hours/week | $49
 [Introduction to Computational Thinking and Data Science](https://www.edx.org/course/introduction-computational-thinking-data-mitx-6-00-2x-2#!)| 10 weeks | 15 hours/week | --
 [From Nand to Tetris](https://www.coursera.org/course/nand2tetris1) | 7 weeks | 5-10 hours/week | --
-Total | 38 weeks (~9.5 months) | - | --
+Total (estimated) |  ~9.5 months | - | --
 
 ### Math (Mathematical Thinking)
 
